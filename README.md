@@ -12,3 +12,5 @@ Sur ce dépôt git vous trouverez:
 * des photos de notre système sur une ruche
 
 Ce dépôt a été crée dans un esprit de partage de connaissances.
+
+Je peux modifier -Abderraouf
