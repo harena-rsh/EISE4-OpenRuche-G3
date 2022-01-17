@@ -1,6 +1,6 @@
 # EISE4_2021/2022_OpenRuche-G3
 
-L'objetcif du projet OpenRuche est l'élaboration d'un système de monitoring d'une ruche. Grâce à divers capteurs (poids, humidité, température, luminosité), un microcontrôleur Arduino Nano 33 BLE et un module Sigfox (permet d'envoyer les données sur le Cloud) il sera possible de surveiller l'état de la ruche à distance.
+L'objectif du projet OpenRuche est l'élaboration d'un système de monitoring d'une ruche. Grâce à divers capteurs (poids, humidité, température, luminosité), un microcontrôleur Arduino Nano 33 BLE et un module Sigfox (permet d'envoyer les données sur le Cloud) il sera possible de surveiller l'état de la ruche à distance.
 
 Dans ce dépôt git vous retrouverez tous les éléments nécéssaires pour facilement prendre en main le système. Ce git regroupe aussi notre cheminement lors de l'élaboration du projet.
 
