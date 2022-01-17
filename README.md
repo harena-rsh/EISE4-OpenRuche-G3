@@ -5,6 +5,7 @@ L'objetcif du projet OpenRuche est l'élaboration d'un système de monitoring d'
 Dans ce dépôt git vous retrouverez tous les éléments nécéssaires pour facilement prendre en main le système. Ce git regroupe aussi notre cheminement lors de l'élaboration du projet.
 
 Sur ce dépôt git vous trouverez:
+* l'article sur le projet (en anglais)
 * le sujet du projet
 * le cahier des charges fonctionnel avec la liste des composants
 * le projet Kicad pour le PCB
